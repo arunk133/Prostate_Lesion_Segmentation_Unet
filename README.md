@@ -1,8 +1,4 @@
-Here is the complete, production-grade `README.md` for your **`Prostate_Lesion_Segmentation_Unet`** repository. It is self-contained, fully formatted, and ready to be pasted directly into GitHub.
 
----
-
-```markdown
 # Prostate and Lesion Segmentation Using Dual-Stage U-Net Pipeline with Vitis AI
 
 This repository contains the end-to-end deep learning training pipelines, model optimization blocks, and hardware deployment files for a dual-stage medical imaging workflow. The system segments the prostate gland and detects/localizes cancerous lesions from multi-sequence MRI scans (T2W, HBV, and ADC). 
